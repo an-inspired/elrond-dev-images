@@ -1,2 +1,8 @@
 [networking]
 port_proxy = 7950
+
+[shards]
+count = 1
+
+[timing]
+rounds_per_epoch = 50
